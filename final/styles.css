@@ -1,0 +1,22 @@
+/* Add styles here */
+.products {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.product {
+	margin: 1rem;
+	width: 20rem;
+	background-color: #fff;
+	box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+}
+
+.cart {
+	background-color: #f0f0f0;
+	padding: 2rem;
+}
+
+.cart-item {
+	margin-bottom: 1rem;
+}
