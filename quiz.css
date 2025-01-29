@@ -1,0 +1,40 @@
+body {
+    background-image: url(quiz5.jpg);
+    background-size: cover;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.quiz-box {
+    border: 2px solid rgba(0, 0, 0, 0.5); /* Outline style */
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+}
+
+.question {
+    margin-bottom: 10px;
+}
+
+.option {
+    margin-bottom: 10px;
+}
+
+.result {
+    font-weight: 200;
+    display: none;
+}
+
+#button {
+    color: white;
+    size: 200px;
+    background-color: rgba(30, 30, 190, 0.678);
+    border-radius: 30px; 
+    width: 80px;  
+    height: 50px;
+}

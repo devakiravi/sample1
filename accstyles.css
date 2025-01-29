@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(cofbg1.jpg);
+    background-size: cover;
+  }
+  
+  .container {
+    width: 300px;
+    margin: 0 auto;
+    color: white;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .profile-info {
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  .profile-info p {
+    margin: 5px 0;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  

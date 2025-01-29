@@ -1,0 +1,25 @@
+body{
+    background-image: url(audio.jpg);
+    background-size: cover;
+}
+#container{
+    height: 300px;
+    width: 350px;
+    border-radius: 10px;
+    color: black;
+}
+h2{
+    color: rgb(230, 51, 120);
+}
+h4{
+    color: white
+}
+.audio{
+    width: 800px;
+    height: 50ox;
+}
+img{
+    size: 50px;
+height:10%;
+width: 10%;
+}
